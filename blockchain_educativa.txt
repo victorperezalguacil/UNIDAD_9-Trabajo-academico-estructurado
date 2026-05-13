@@ -1,0 +1,36 @@
+Bloque: 0
+Timestamp: 2026-05-13 19:59:51.332198
+Datos: {'mensaje': 'Bloque inicial del sistema Learning Analytics'}
+Hash anterior: 0
+Hash actual: aa7907e8631e926cdbbc66c4ee1da5c5090ddb6657e8c4c5f9dc2f8c2b44a745
+--------------------------------------------------
+Bloque: 1
+Timestamp: 2026-05-13 19:59:51.333540
+Datos: {'id': 1, 'nota_media': 5.0, 'estado': 'Estable'}
+Hash anterior: aa7907e8631e926cdbbc66c4ee1da5c5090ddb6657e8c4c5f9dc2f8c2b44a745
+Hash actual: b57dbf3b65bdd8b04c9719735d4635b13a3c42f9f1d61f30539222bc89999355
+--------------------------------------------------
+Bloque: 2
+Timestamp: 2026-05-13 19:59:51.333719
+Datos: {'id': 2, 'nota_media': 5.54, 'estado': 'Estable'}
+Hash anterior: b57dbf3b65bdd8b04c9719735d4635b13a3c42f9f1d61f30539222bc89999355
+Hash actual: cc313ec3045fef0bafeffe731f760b515bc252732bc983b1caaf56bcbe43cda0
+--------------------------------------------------
+Bloque: 3
+Timestamp: 2026-05-13 19:59:51.333829
+Datos: {'id': 3, 'nota_media': 7.34, 'estado': 'En riesgo'}
+Hash anterior: cc313ec3045fef0bafeffe731f760b515bc252732bc983b1caaf56bcbe43cda0
+Hash actual: 601abd7794c738194864385c3e9f462c37df3d6295be59a0b90b9fab54090b50
+--------------------------------------------------
+Bloque: 4
+Timestamp: 2026-05-13 19:59:51.333922
+Datos: {'id': 4, 'nota_media': 4.8, 'estado': 'En riesgo'}
+Hash anterior: 601abd7794c738194864385c3e9f462c37df3d6295be59a0b90b9fab54090b50
+Hash actual: ebaf34e23fe203d1caa284fe49d4d5b49e457a42909535d715c5e582cf0c3575
+--------------------------------------------------
+Bloque: 5
+Timestamp: 2026-05-13 19:59:51.334012
+Datos: {'id': 5, 'nota_media': 7.46, 'estado': 'En riesgo'}
+Hash anterior: ebaf34e23fe203d1caa284fe49d4d5b49e457a42909535d715c5e582cf0c3575
+Hash actual: 19c6ade0988cb9ef4c52819f549bc9c8610d626e21eec5d08c3837b385be31f9
+--------------------------------------------------

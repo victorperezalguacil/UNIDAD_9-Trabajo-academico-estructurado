@@ -1,0 +1,101 @@
+id,nombre,email,curso,matematicas,criptografia,blockchain,mineria_datos,learning_analytics,participacion,horas_plataforma,tareas_entregadas,asistencia,foros,riesgo_real,nota_media,estado
+1,Silvia Moreno,silvia.moreno@email.com,Analisis de Datos II,4.2,7.0,4.9,5.4,3.5,91,12,9,71,9,0,5.0,Estable
+2,Alberto Vidal,alberto.vidal@email.com,Analisis de Datos II,5.5,2.4,8.1,2.8,8.9,61,12,7,88,10,0,5.54,Estable
+3,Teresa Lopez,teresa.lopez@email.com,Analisis de Datos II,9.1,6.1,8.1,3.8,9.6,26,33,8,37,1,1,7.34,En riesgo
+4,Oscar Pastor,oscar.pastor@email.com,Analisis de Datos II,2.3,8.9,4.2,3.7,4.9,41,32,9,62,2,1,4.8,En riesgo
+5,Oscar Pastor,oscar.pastor@email.com,Analisis de Datos II,3.0,9.8,6.7,8.3,9.5,30,40,10,58,3,1,7.46,En riesgo
+6,Ivan Lopez,ivan.lopez@email.com,Analisis de Datos II,6.1,10.0,8.2,5.8,9.4,45,36,7,47,2,1,7.9,En riesgo
+7,Daniel Cano,daniel.cano@email.com,Analisis de Datos II,4.8,9.4,7.8,7.7,7.1,21,24,10,70,10,1,7.36,En riesgo
+8,Daniel Fuentes,daniel.fuentes@email.com,Analisis de Datos II,8.7,6.8,6.0,7.1,3.2,80,47,10,95,0,0,6.36,Estable
+9,Paula Leon,paula.leon@email.com,Analisis de Datos II,4.1,7.3,2.9,6.0,7.0,90,17,5,52,5,0,5.46,Estable
+10,Oscar Garcia,oscar.garcia@email.com,Analisis de Datos II,5.1,3.0,8.0,5.4,9.6,38,18,8,85,5,1,6.22,En riesgo
+11,Elena Lopez,elena.lopez@email.com,Analisis de Datos II,5.9,4.3,7.9,8.1,8.8,93,28,5,48,10,0,7.0,Estable
+12,Beatriz Gomez,beatriz.gomez@email.com,Analisis de Datos II,8.3,9.0,4.7,8.6,5.9,39,40,7,94,7,1,7.3,En riesgo
+13,Laura Lopez,laura.lopez@email.com,Analisis de Datos II,5.6,10.0,2.6,3.9,6.2,84,43,5,70,1,0,5.66,Estable
+14,Javier Navarro,javier.navarro@email.com,Analisis de Datos II,6.8,6.5,4.8,6.6,9.0,85,12,8,79,7,0,6.74,Estable
+15,Hugo Perez,hugo.perez@email.com,Analisis de Datos II,9.9,4.7,3.6,2.4,7.7,51,27,8,90,8,0,5.66,Estable
+16,Nuria Rios,nuria.rios@email.com,Analisis de Datos II,9.5,9.3,3.6,6.2,9.4,84,29,7,34,4,0,7.6,Estable
+17,Nuria Rubio,nuria.rubio@email.com,Analisis de Datos II,3.9,5.1,3.0,5.3,9.9,41,21,7,76,8,1,5.44,En riesgo
+18,Marcos Torres,marcos.torres@email.com,Analisis de Datos II,6.1,9.2,3.5,7.9,6.2,43,40,7,77,5,1,6.58,En riesgo
+19,Marta Cano,marta.cano@email.com,Analisis de Datos II,8.3,9.8,7.4,6.0,8.4,43,20,1,65,4,1,7.98,En riesgo
+20,Carmen Ortega,carmen.ortega@email.com,Analisis de Datos II,7.1,7.9,7.2,8.4,7.2,73,43,5,62,4,0,7.56,Estable
+21,Javier Martin,javier.martin@email.com,Analisis de Datos II,8.1,3.3,9.2,8.0,7.5,51,19,10,32,10,0,7.22,Estable
+22,Silvia Marin,silvia.marin@email.com,Analisis de Datos II,8.4,9.8,2.3,7.2,8.2,52,14,6,69,2,0,7.18,Estable
+23,Paula Navarro,paula.navarro@email.com,Analisis de Datos II,8.1,9.9,7.6,3.2,4.6,50,48,6,95,9,0,6.68,Estable
+24,Silvia Ramos,silvia.ramos@email.com,Analisis de Datos II,2.0,7.5,2.4,2.1,6.5,21,23,6,64,0,1,4.1,En riesgo
+25,Ivan Gil,ivan.gil@email.com,Analisis de Datos II,7.5,7.0,2.8,5.5,7.6,30,10,9,64,7,1,6.08,En riesgo
+26,Pedro Sanchez,pedro.sanchez@email.com,Analisis de Datos II,8.9,8.5,7.8,8.4,5.7,42,16,8,73,2,1,7.86,En riesgo
+27,Teresa Serrano,teresa.serrano@email.com,Analisis de Datos II,9.3,4.4,4.6,2.2,5.9,41,11,8,94,7,1,5.28,En riesgo
+28,Nuria Garcia,nuria.garcia@email.com,Analisis de Datos II,5.9,9.4,6.6,3.4,2.2,38,5,6,93,10,1,5.5,En riesgo
+29,Nuria Ramos,nuria.ramos@email.com,Analisis de Datos II,3.6,5.3,9.1,2.8,6.2,87,45,3,33,1,0,5.4,Estable
+30,Patricia Ortega,patricia.ortega@email.com,Analisis de Datos II,3.2,8.6,7.0,5.5,6.9,68,5,8,85,1,0,6.24,Estable
+31,Alberto Ruiz,alberto.ruiz@email.com,Analisis de Datos II,7.3,6.6,7.6,7.7,7.9,97,34,1,65,7,0,7.42,Estable
+32,Pedro Garcia,pedro.garcia@email.com,Analisis de Datos II,9.7,5.9,4.1,7.3,7.4,62,14,10,63,5,0,6.88,Estable
+33,Nuria Pastor,nuria.pastor@email.com,Analisis de Datos II,2.7,2.7,8.9,7.3,2.1,65,6,7,44,0,1,4.74,En riesgo
+34,Claudia Sanchez,claudia.sanchez@email.com,Analisis de Datos II,4.6,6.3,6.5,9.6,2.0,63,8,9,34,7,0,5.8,Estable
+35,Marta Torres,marta.torres@email.com,Analisis de Datos II,2.7,7.1,9.1,5.6,2.9,49,30,4,42,8,1,5.48,En riesgo
+36,Claudia Sanchez,claudia.sanchez@email.com,Analisis de Datos II,4.2,4.2,9.2,5.7,6.0,43,13,7,49,5,1,5.86,En riesgo
+37,Alberto Rios,alberto.rios@email.com,Analisis de Datos II,4.0,4.7,4.5,8.9,6.9,53,22,10,96,1,0,5.8,Estable
+38,Nuria Nieto,nuria.nieto@email.com,Analisis de Datos II,5.6,6.6,3.3,3.7,4.4,75,32,9,80,6,1,4.72,En riesgo
+39,Elena Moreno,elena.moreno@email.com,Analisis de Datos II,5.7,4.1,8.8,7.5,3.2,69,40,3,77,4,0,5.86,Estable
+40,Claudia Perez,claudia.perez@email.com,Analisis de Datos II,9.6,6.2,4.6,5.7,9.2,70,13,3,71,2,0,7.06,Estable
+41,Victor Pastor,victor.pastor@email.com,Analisis de Datos II,4.2,7.2,7.7,6.2,4.5,60,8,8,41,10,0,5.96,Estable
+42,Beatriz Rios,beatriz.rios@email.com,Analisis de Datos II,6.4,2.4,5.2,7.7,5.2,84,38,4,43,8,0,5.38,Estable
+43,Nuria Torres,nuria.torres@email.com,Analisis de Datos II,7.3,6.8,5.2,8.9,7.8,87,45,5,54,8,0,7.2,Estable
+44,Elena Gil,elena.gil@email.com,Analisis de Datos II,3.2,4.1,5.2,6.9,5.0,67,37,1,86,8,1,4.88,En riesgo
+45,Oscar Navarro,oscar.navarro@email.com,Analisis de Datos II,9.2,3.5,5.6,8.1,9.0,85,16,9,90,4,0,7.08,Estable
+46,Ana Ramos,ana.ramos@email.com,Analisis de Datos II,3.9,4.6,4.6,10.0,5.4,35,17,2,37,8,1,5.7,En riesgo
+47,Ivan Aguilar,ivan.aguilar@email.com,Analisis de Datos II,2.4,5.1,2.4,6.2,2.3,55,43,5,37,3,1,3.68,En riesgo
+48,David Serrano,david.serrano@email.com,Analisis de Datos II,6.3,7.1,7.8,7.4,2.5,56,6,2,61,7,0,6.22,Estable
+49,Alberto Aguilar,alberto.aguilar@email.com,Analisis de Datos II,4.3,7.5,9.0,8.1,3.8,98,24,2,34,7,0,6.54,Estable
+50,Hugo Vega,hugo.vega@email.com,Analisis de Datos II,9.9,4.3,4.5,5.8,8.2,55,26,7,41,0,0,6.54,Estable
+51,Oscar Ramos,oscar.ramos@email.com,Analisis de Datos II,9.9,4.9,3.1,3.6,2.5,41,32,1,75,4,1,4.8,En riesgo
+52,Manuel Garcia,manuel.garcia@email.com,Analisis de Datos II,6.6,9.0,7.8,2.9,7.5,65,50,7,79,5,0,6.76,Estable
+53,Irene Serrano,irene.serrano@email.com,Analisis de Datos II,2.2,5.4,6.2,8.6,2.5,81,42,6,38,5,1,4.98,En riesgo
+54,David Vega,david.vega@email.com,Analisis de Datos II,9.7,9.9,7.1,8.2,2.8,99,41,7,35,0,0,7.54,Estable
+55,Marcos Martin,marcos.martin@email.com,Analisis de Datos II,8.6,6.7,8.9,2.0,9.4,51,31,4,30,9,0,7.12,Estable
+56,Pedro Gomez,pedro.gomez@email.com,Analisis de Datos II,2.7,8.7,2.9,5.1,10.0,32,46,3,46,7,1,5.88,En riesgo
+57,Silvia Torres,silvia.torres@email.com,Analisis de Datos II,6.8,5.5,5.6,4.4,8.4,66,47,8,79,9,0,6.14,Estable
+58,Victor Romero,victor.romero@email.com,Analisis de Datos II,8.2,3.5,2.1,4.7,8.5,36,11,5,93,6,1,5.4,En riesgo
+59,Carmen Rios,carmen.rios@email.com,Analisis de Datos II,7.3,8.5,6.9,8.4,7.5,39,37,9,55,8,1,7.72,En riesgo
+60,Carlos Gil,carlos.gil@email.com,Analisis de Datos II,7.4,3.2,2.8,7.8,5.3,75,6,3,66,6,0,5.3,Estable
+61,Carlos Vega,carlos.vega@email.com,Analisis de Datos II,6.9,2.4,5.5,4.2,7.0,83,49,4,42,9,0,5.2,Estable
+62,Ana Vega,ana.vega@email.com,Analisis de Datos II,8.2,7.6,3.2,3.8,5.2,65,10,6,40,1,0,5.6,Estable
+63,Silvia Herrera,silvia.herrera@email.com,Analisis de Datos II,7.2,9.0,8.3,5.3,2.1,48,12,3,58,1,1,6.38,En riesgo
+64,Ivan Rubio,ivan.rubio@email.com,Analisis de Datos II,4.9,5.1,5.5,8.5,7.4,58,45,3,38,8,0,6.28,Estable
+65,Beatriz Navarro,beatriz.navarro@email.com,Analisis de Datos II,3.3,3.0,5.3,7.7,9.5,26,21,8,93,7,1,5.76,En riesgo
+66,Beatriz Serrano,beatriz.serrano@email.com,Analisis de Datos II,7.3,2.2,8.1,3.2,8.4,97,39,3,44,5,0,5.84,Estable
+67,Silvia Marin,silvia.marin@email.com,Analisis de Datos II,9.8,3.1,5.4,4.4,8.9,34,38,4,92,2,1,6.32,En riesgo
+68,Victor Martin,victor.martin@email.com,Analisis de Datos II,6.3,6.1,4.0,4.0,5.6,73,34,10,40,1,0,5.2,Estable
+69,Irene Lopez,irene.lopez@email.com,Analisis de Datos II,9.9,6.9,9.2,6.1,2.1,30,7,1,67,6,1,6.84,En riesgo
+70,Laura Romero,laura.romero@email.com,Analisis de Datos II,6.6,8.8,2.4,8.7,5.8,53,17,6,65,8,0,6.46,Estable
+71,Victor Molina,victor.molina@email.com,Analisis de Datos II,4.2,6.1,6.2,5.4,5.8,28,14,8,62,1,1,5.54,En riesgo
+72,Victor Sanchez,victor.sanchez@email.com,Analisis de Datos II,4.2,8.7,2.6,7.5,4.4,62,29,10,58,8,0,5.48,Estable
+73,Nuria Marin,nuria.marin@email.com,Analisis de Datos II,4.8,4.7,6.5,9.6,9.3,48,5,4,72,8,1,6.98,En riesgo
+74,Oscar Vidal,oscar.vidal@email.com,Analisis de Datos II,4.0,6.5,6.3,9.1,4.9,63,20,8,96,1,0,6.16,Estable
+75,Laura Ortega,laura.ortega@email.com,Analisis de Datos II,5.9,7.1,8.8,7.4,7.0,78,23,10,67,7,0,7.24,Estable
+76,Paula Gomez,paula.gomez@email.com,Analisis de Datos II,9.7,6.2,9.3,8.1,8.2,61,12,10,63,8,0,8.3,Estable
+77,Teresa Nieto,teresa.nieto@email.com,Analisis de Datos II,6.4,5.1,6.3,6.1,5.3,49,12,8,59,8,1,5.84,En riesgo
+78,Sofia Marin,sofia.marin@email.com,Analisis de Datos II,3.8,4.3,5.4,3.5,4.4,74,24,10,99,0,1,4.28,En riesgo
+79,Daniel Torres,daniel.torres@email.com,Analisis de Datos II,8.7,2.3,2.7,9.3,3.7,67,39,8,50,3,0,5.34,Estable
+80,Carlos Marin,carlos.marin@email.com,Analisis de Datos II,7.1,3.8,8.0,9.4,3.0,95,48,5,32,7,0,6.26,Estable
+81,Alberto Lopez,alberto.lopez@email.com,Analisis de Datos II,8.9,8.3,5.5,7.8,2.9,75,47,6,62,0,0,6.68,Estable
+82,Sergio Diaz,sergio.diaz@email.com,Analisis de Datos II,9.3,4.8,6.8,6.4,4.5,45,49,5,34,7,1,6.36,En riesgo
+83,Marcos Fuentes,marcos.fuentes@email.com,Analisis de Datos II,8.6,7.6,6.8,7.3,9.0,92,11,8,41,7,0,7.86,Estable
+84,Sofia Navarro,sofia.navarro@email.com,Analisis de Datos II,8.0,2.3,7.2,9.7,8.9,60,10,4,97,0,0,7.22,Estable
+85,Victor Fuentes,victor.fuentes@email.com,Analisis de Datos II,5.7,8.4,7.3,9.9,5.0,30,28,5,48,3,1,7.26,En riesgo
+86,Ana Cano,ana.cano@email.com,Analisis de Datos II,8.6,6.0,6.4,3.6,5.8,65,37,6,58,10,0,6.08,Estable
+87,Teresa Sanchez,teresa.sanchez@email.com,Analisis de Datos II,4.1,9.6,6.4,5.2,2.4,65,30,5,96,6,0,5.54,Estable
+88,Laura Torres,laura.torres@email.com,Analisis de Datos II,7.1,5.5,3.2,10.0,7.7,21,30,6,80,6,1,6.7,En riesgo
+89,Nuria Moreno,nuria.moreno@email.com,Analisis de Datos II,4.5,6.1,9.8,5.8,7.3,22,31,6,31,8,1,6.7,En riesgo
+90,Irene Torres,irene.torres@email.com,Analisis de Datos II,5.5,7.8,2.2,4.2,5.1,61,45,10,54,10,1,4.96,En riesgo
+91,Victor Garcia,victor.garcia@email.com,Analisis de Datos II,3.7,2.2,6.0,3.0,6.2,96,16,10,56,4,1,4.22,En riesgo
+92,Nuria Romero,nuria.romero@email.com,Analisis de Datos II,4.7,8.3,4.9,8.4,8.7,96,9,1,42,0,0,7.0,Estable
+93,Daniel Ruiz,daniel.ruiz@email.com,Analisis de Datos II,9.8,2.2,8.5,4.3,6.8,61,20,1,98,0,0,6.32,Estable
+94,Nuria Torres,nuria.torres@email.com,Analisis de Datos II,9.7,5.2,9.6,6.7,5.9,42,20,7,67,4,1,7.42,En riesgo
+95,Elena Lopez,elena.lopez@email.com,Analisis de Datos II,8.3,7.0,7.7,8.4,3.1,62,38,5,92,6,0,6.9,Estable
+96,Ana Cano,ana.cano@email.com,Analisis de Datos II,6.2,2.5,3.5,9.4,9.8,26,17,6,65,9,1,6.28,En riesgo
+97,Javier Lopez,javier.lopez@email.com,Analisis de Datos II,3.7,4.6,7.0,9.5,6.3,50,41,1,32,0,0,6.22,Estable
+98,Pedro Herrera,pedro.herrera@email.com,Analisis de Datos II,3.9,4.9,7.4,9.3,2.7,63,17,8,33,7,0,5.64,Estable
+99,Daniel Rios,daniel.rios@email.com,Analisis de Datos II,6.5,9.7,8.2,4.7,2.7,32,8,4,95,3,1,6.36,En riesgo
+100,Irene Pastor,irene.pastor@email.com,Analisis de Datos II,7.6,3.9,6.4,8.8,7.3,70,15,7,57,3,0,6.8,Estable
